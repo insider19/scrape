@@ -1,3 +1,19 @@
+Serbia:
+ - Nacionalni park Fruška gora
+ - Belgrade
+ 
+Bosnia:
+ - Sarajevo
+ - Mostar, Blagaj, Kravice Waterfall
+ 
+Croatia:
+ - Mali Ston (Oyster Festival from March 17)
+ - Dubrovnik? Zadar?
+ - Plitvice Lakes 
+ - Zagreb
+
+
+
 # scrape
 
 A simple, higher level interface for Go web scraping.
