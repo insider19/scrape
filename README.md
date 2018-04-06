@@ -1,5 +1,5 @@
 # scrape
-
+https://global.gotowebinar.com/join/4126321293839949313/178795948
 A simple, higher level interface for Go web scraping.
 
 When scraping with Go, I find myself redefining tree traversal and other
