@@ -1,4 +1,6 @@
 # scrape
+https://global.gotowebinar.com/join/9030697310575824130/665038736
+
 https://global.gotowebinar.com/join/4126321293839949313/178795948
 A simple, higher level interface for Go web scraping.
 
